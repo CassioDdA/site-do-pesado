@@ -1,0 +1,3 @@
+:root{
+	--max-widt-size: 1920px; /*-- é uma variável global, que vai servir para mudar coisas no código inteiro de uma única vez*/
+}
